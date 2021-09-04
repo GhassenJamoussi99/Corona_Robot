@@ -7,8 +7,6 @@ Während der Ausgangssperre kann dieser Roboter die Straße mit einer Kamera üb
 Dieser Roboter wird sehr effektiv sein, um die Zahl der Corona-Fälle noch weiter zu senken und
 die Sicherheit für alle Bürger zu gewährleisten.
 
-## Über:
-
 ## Erledigt von:
 
  Ghassen Jamoussi
