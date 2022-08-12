@@ -1,8 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://ghassenjamoussi99.github.io/img/projects/Corona_Robot.png" alt="Corona_robot_picture" width="400" style=" 
-  border-radius: 10%;">
+  <img src="https://ghassenjamoussi99.github.io/img/projects/Corona_Robot.png" alt="Corona_robot_picture" width="400">
   <br>
   Corona Robot
   <br>
@@ -21,8 +20,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://github.com/GhassenJamoussi99/Corona_Robot/blob/main/.github/assets/corona_robot.gif?raw=true" width="600" style=" 
-  border-radius: 10%;">
+  <img src="https://github.com/GhassenJamoussi99/Corona_Robot/blob/main/.github/assets/corona_robot.gif?raw=true" width="600">
 </h1>
 
 ## Motivation:
@@ -39,8 +37,7 @@ Das Ziel, ist es ein Roboter zu entwickeln , der autonom und ferngesteuert fähr
 
 ## Hardware Aufbau
 <h1 align="center">
-  <img src="https://github.com/GhassenJamoussi99/Corona_Robot/blob/main/.github/assets/corona_robot.gif?raw=true" width="600" style=" 
-  border-radius: 10%;">
+  <img src="https://raw.githubusercontent.com/GhassenJamoussi99/Corona_Robot/main/.github/assets/hardware_aufbau.png" width="600">
 </h1>
 
 ## Credits:
