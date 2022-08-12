@@ -18,7 +18,10 @@
   <a href="#HowToUse">How To Use</a> •
 </p>
 
-![screenshot](https://github.com/GhassenJamoussi99/Corona_Robot/blob/main/.github/assets/corona_robot.gif?raw=true)
+<h1 align="center">
+  <img src="https://github.com/GhassenJamoussi99/Corona_Robot/blob/main/.github/assets/corona_robot.gif?raw=true" width="600" style=" 
+  border-radius: 10%;">
+</h1>
 
 ## Motivation:
 Seit Beginn der Corona-Krise macht man sich Gedanken darüber, wie man die Zahl der Infizierten reduzieren kann. Als Technische Informatiker , haben wir uns überlegt, wie man sowohl Hardware als auch Software einsetzt, um diese kritischen Zahlen reduzieren zu können .
