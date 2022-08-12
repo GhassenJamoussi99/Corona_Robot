@@ -1,7 +1,7 @@
 from tkinter import *
-from KeypadControlPC import *
+from robot.KeypadControlPC import *
 from urllib.request import urlopen
-from Line_Follower import follow
+from robot.Line_Follower import follow
 import base64
 from threading import *
 from cam_streaming.webstreaming import videostreaming
