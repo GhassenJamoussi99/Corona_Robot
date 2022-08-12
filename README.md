@@ -50,5 +50,5 @@ Das Ziel, ist es ein Roboter zu entwickeln , der autonom und ferngesteuert fähr
 
  2021 4. Semester
 
-## How To Use
+## Verwendung
 Die Dokumentation beschreibt sehr ausführlich, wie man das Projekt aufbaut und zum Leben bringt.
