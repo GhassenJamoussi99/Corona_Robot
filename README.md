@@ -14,7 +14,9 @@
   <a href="#Motivation">Motivation</a> •
   <a href="#Ziel">Ziel</a> •
   <a href="#Entwickelt mit">Entwickelt mit</a> •
+  <a href="#Hardware Aufbau">Hardware Aufbau</a> •
   <a href="#Credits">Credits</a> •
+  <a href="#Akademisches Jahr">Akademisches Jahr</a> •
   <a href="#HowToUse">How To Use</a> •
 </p>
 
@@ -33,14 +35,23 @@ Das Ziel, ist es ein Roboter zu entwickeln , der autonom und ferngesteuert fähr
 <div align="center">
   <a href="https://www.raspberrypi.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/712px-Raspberry_Pi_Logo.svg.png?20120729132916" width="60" alt="RasPi Logo" /></a>
   <a href="https://www.python.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="60" alt="Python Logo" /></a>
-
 </div>
+
+## Hardware Aufbau
+<h1 align="center">
+  <img src="https://github.com/GhassenJamoussi99/Corona_Robot/blob/main/.github/assets/corona_robot.gif?raw=true" width="600" style=" 
+  border-radius: 10%;">
+</h1>
 
 ## Credits:
 
  Ghassen Jamoussi
 
  Wadi Touil
+
+## Akademisches Jahr:
+
+ 2021 4. Semester
 
 ## How To Use:
 Die Dokumentation beschreibt sehr ausführlich, wie man das Projekt aufbaut und zum Leben bringt.
