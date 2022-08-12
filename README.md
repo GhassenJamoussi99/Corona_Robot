@@ -37,7 +37,7 @@ Das Ziel, ist es ein Roboter zu entwickeln , der autonom und ferngesteuert fähr
 
 ## Hardware Aufbau
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/GhassenJamoussi99/Corona_Robot/main/.github/assets/hardware_aufbau.png" width="600">
+  <img src="https://raw.githubusercontent.com/GhassenJamoussi99/Corona_Robot/main/.github/assets/hardware_aufbau.png" width="800">
 </h1>
 
 ## Credits:
