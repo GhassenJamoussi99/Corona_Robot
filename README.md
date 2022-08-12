@@ -16,7 +16,7 @@
   <a href="#Hardware-Aufbau">Hardware Aufbau</a> •
   <a href="#Credits">Credits</a> •
   <a href="#Akademisches-Jahr">Akademisches Jahr</a> •
-  <a href="#HowToUse">How To Use</a> •
+  <a href="#Verwendung">Verwendung</a> •
 </p>
 
 <h1 align="center">
