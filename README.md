@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://ghassenjamoussi99.github.io/img/projects/Corona_Robot.png" alt="Corona_robot_picture" width="400">
+  <img src=".github/assets/corona_robot_img.png" alt="Corona_robot_picture" width="400">
   <br>
   Corona Robot
   <br>
